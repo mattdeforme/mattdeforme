@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen Phi Hung!
 
-<!--
-**mattdeforme/mattdeforme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Lead Technical Artist** | 🛠️ Unreal Engine 5 Specialist  
+[studiokoorogi.com](https://studiokoorogi.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer and artist specializing in Unreal Engine 5 As a **Lead Technical Artist**, I blend creativity and technical expertise to bring stunning visuals and immersive storytelling to life. Whether it's scripting, tool development, or pushing the boundaries of game development, I'm all in!
+
+- 💻 **Languages:** C++, Python, Rust
+- 🏆 **Expertise:** Unreal Engine 5, Cinematic Tools, Technical Art, Game Pipeline Automation
+
+---
+
+## 🌟 What I Love
+
+- Building powerful, artist-friendly tools
+- Exploring new game mechanics, especially in indie games with unique twists
+- Collaborating with creative minds to deliver unforgettable experiences
+
+---
+
+## 🌐 Connect with Me
+
+- 🌍 [studiokoorogi.com](https://studiokoorogi.com)
+- 🎲 Game enthusiast, especially indie gems with innovative mechanics
+
+---
+
+> “Art + Code = Magic. Let’s create something unforgettable.”
